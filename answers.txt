@@ -7,3 +7,6 @@ Q2: What field could data science be applied to? Give and Example and how it mig
 
 Answer: Data science can be applied to the field of health care. Data science can look at the trends of some diseases and predict when cases are to rise. For example, data science has helped us learn that flu cases rise in fall/winter seasons. That is why we get the flu shot during the early fall.
 
+Q3: What is the difference between merging and rebasing?
+
+Answer: With merging, you can see the full commit history exactly as it happened. With rebasing, you can rewrite over commits, so the commit history may not be represented in the way it happened.
